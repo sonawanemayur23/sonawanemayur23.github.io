@@ -1,0 +1,36 @@
+body{
+    color:cyan;
+    background-image: url(./assets/computer-motherboard.jpg);
+    padding: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1,h3{
+    text-align: center;
+    color:cyan;
+    font-weight: 900;
+}
+.intro{
+    text-align: center;
+    color:cyan;
+    font-weight: 900;
+    padding: 20px;
+}
+.jumbotron{
+      background-color:#252D44;
+      border-radius: 50px;
+      padding: 20px;
+}
+.card{
+    background-color:#252D44;
+    border-radius: 50px;
+    padding: 20px;
+   margin-bottom: 20px;
+}
+.my-4{
+    border: 1px dotted white;
+}
+.img-thumbnail{
+    border-radius: 100px
+}
